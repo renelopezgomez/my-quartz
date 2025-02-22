@@ -4,7 +4,7 @@ Qué es (según Perplexity):
 > 
 > — [Quote from “what is tribulus terrestris”](https://arc.net/l/quote/povhkyrh)
 
-Según WebMD Algunos de sus efectos secundarios pueden incluir problemas para dormir:
+Según WebMD Algunos de sus ==efectos secundarios== pueden incluir problemas para dormir:
 > [!quote]+
 > **Side effects.** Taking tribulus as a supplement for a short time is probably safe, provided that you're healthy and you are not [pregnant](https://www.webmd.com/baby/default.htm) or [breastfeeding](https://www.webmd.com/parenting/baby/nursing-basics). ==Side effects can include [trouble sleeping](https://www.webmd.com/sleep-disorders/default.htm)==, an [upset stomach](https://www.webmd.com/digestive-disorders/digestive-diseases-nausea-vomiting), and [irregular periods](https://www.webmd.com/infertility-and-reproduction/absence-periods).
 > 
